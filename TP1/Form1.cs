@@ -22,7 +22,7 @@ namespace TP1
 
 
             InitializeComponent();
-
+            //test
             // rendre les picturebox ronde
             System.Drawing.Drawing2D.GraphicsPath gp = new System.Drawing.Drawing2D.GraphicsPath();
             gp.AddEllipse(0, 0, pb1.Width - 3, pb1.Height - 3);
